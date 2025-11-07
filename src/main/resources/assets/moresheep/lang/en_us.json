@@ -1,4 +1,5 @@
 {
-  "itemGroup.moresheep": "Example Mod Tab",
-  "item.moresheep.star_point": "star point"
+  "itemGroup.sheep_tab": "Mod",
+  "item.moresheep.star_point": "star point",
+  "block.moresheep.star_point_block": "star point block"
 }

@@ -1,4 +1,5 @@
 {
-  "itemGroup.moresheep": "Example Mod Tab",
-  "item.moresheep.star_point": "星之点"
+  "itemGroup.sheep_tab": "模组",
+  "item.moresheep.star_point": "星之点",
+  "block.moresheep.star_point_block": "星之点块"
 }
